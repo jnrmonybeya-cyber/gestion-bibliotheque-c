@@ -1,0 +1,5 @@
+1;loi;junior;2025;4
+2;linux;junior;2025;5
+3;math;junior;2025;4
+4;java;junior;2026;3
+576192848;adi;junior;2025;5

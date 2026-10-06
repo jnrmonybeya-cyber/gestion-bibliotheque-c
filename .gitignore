@@ -1,0 +1,23 @@
+# Fichiers compilés et binaires
+*.exe
+*.o
+*.obj
+*.ilk
+*.pdb
+*.out
+
+# Dossiers de build
+bin/
+obj/
+
+# Fichiers Code::Blocks générés
+*.depend
+*.layout
+._cache_*
+
+# Fichiers Visual Studio
+vc*.pdb
+
+# Données locales (optionnel : à retirer si tu veux versionner les données)
+# livres.txt
+# emprunts.txt
